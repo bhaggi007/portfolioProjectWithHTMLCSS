@@ -1,3 +1,6 @@
+body {
+  background-color: steelblue;
+}
 .container {
   width: 400px;
   height: 100vh;
