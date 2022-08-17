@@ -7,3 +7,19 @@ Sites referred for inspiration
 Spend 1 hour tomorrow and put in few sites for inspiration here
 
 Then build a basic structure of the website. What all links I want. Just a high level structure to keep me going
+
+15 Portfolio from other developers for inspiration
+
+1. Portfolio website of Matt (@farleymatters)
+   A very clean design and all the necessary details included. The website loads very fast, thus improving the ux.
+   https://mattfarley.ca/
+
+2. Bruno Simon Portfolio
+   Bruno has given a very nice animation to his personal protfolio website. A lot of creative thinking has gone into his website. Unfortunately, I couldn't find his twitter id to tag.
+   https://bruno-simon.com/
+
+3. Brittany Chiang Protfolio(@bchiang7)
+   Brittany has given a very intuitive. A simple yet very intuitive portfolio website. Navigation is very efficient.
+   https://brittanychiang.com/
+
+4.
