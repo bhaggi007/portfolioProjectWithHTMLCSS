@@ -15,10 +15,10 @@ Then build a basic structure of the website. What all links I want. Just a high 
    https://mattfarley.ca/
 
 2. Bruno Simon Portfolio
-   Bruno has given a very nice animation to his personal protfolio website. A lot of creative thinking has gone into his website. Unfortunately, I couldn't find his twitter id to tag.
+   Bruno has given a very nice animation to his personal portfolio website. A lot of creative thinking has gone into his website. Unfortunately, I couldn't find his twitter id to tag.
    https://bruno-simon.com/
 
-3. Brittany Chiang Protfolio(@bchiang7)
+3. Brittany Chiang Portfolio(@bchiang7)
    Brittany has given a very intuitive. A simple yet very intuitive portfolio website. Navigation is very efficient.
    https://brittanychiang.com/
 
