@@ -22,4 +22,10 @@ Then build a basic structure of the website. What all links I want. Just a high 
    Brittany has given a very intuitive. A simple yet very intuitive portfolio website. Navigation is very efficient.
    https://brittanychiang.com/
 
-4.
+Step 1
+Let me try to make a replica of the site I liked. Will start from here. Once done can refactor and change
+
+I found below site very nice.
+https://mattfarley.ca/
+
+Let us try to replicate it.

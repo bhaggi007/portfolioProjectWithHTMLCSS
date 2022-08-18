@@ -1,8 +1,28 @@
 body {
   background-color: steelblue;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
 }
 .container {
-  width: 400px;
+  width: auto;
   height: 100vh;
-  margin: auto;
+  margin: 0 10%;
+}
+.main-nav-style {
+  padding: 3em 0;
+}
+.svg-font-size {
+  font-size: 4em;
+}
+.nav-links {
+  padding-left: 70%;
+  font-size: 2em;
+}
+.main-text {
+  margin: 10px;
+  text-align: center;
+  font-size: 3em;
+}
+.sub-heading {
+  color: rgb(158, 70, 70);
 }
