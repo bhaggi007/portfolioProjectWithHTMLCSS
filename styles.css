@@ -25,4 +25,6 @@ body {
 }
 .sub-heading {
   color: rgb(158, 70, 70);
+  text-align: center;
+  padding: 10px 0;
 }
