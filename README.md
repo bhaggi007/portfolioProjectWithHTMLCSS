@@ -29,3 +29,5 @@ I found below site very nice.
 https://mattfarley.ca/
 
 Let us try to replicate it.
+
+In the process of replicatin the site. Replicated the header section of the website
