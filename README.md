@@ -31,3 +31,5 @@ https://mattfarley.ca/
 Let us try to replicate it.
 
 In the process of replicatin the site. Replicated the header section of the website
+
+Document the steps. What all needs to be done.
