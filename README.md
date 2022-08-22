@@ -33,3 +33,13 @@ Let us try to replicate it.
 In the process of replicatin the site. Replicated the header section of the website
 
 Document the steps. What all needs to be done.
+So what I see is this website has x sections
+
+1. Header with icon and navbar
+2. Main section -1 --> two line intro with two images
+3. Main section -2 --> a little background. Then there is what all expertise is there
+4. Main section -3 --> recent work with different companies
+5. Main section -5 --> Companies with whih collaborated
+6. Main section -6 --> Startup products created
+7. Main section -7 --> Testimonials
+8. Footer section --> for connecting and collaborating
