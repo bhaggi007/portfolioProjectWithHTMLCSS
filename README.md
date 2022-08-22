@@ -39,7 +39,30 @@ So what I see is this website has x sections
 2. Main section -1 --> two line intro with two images
 3. Main section -2 --> a little background. Then there is what all expertise is there
 4. Main section -3 --> recent work with different companies
-5. Main section -5 --> Companies with whih collaborated
-6. Main section -6 --> Startup products created
-7. Main section -7 --> Testimonials
+5. Main section -4 --> Companies with whih collaborated
+6. Main section -5 --> Startup products created
+7. Main section -6 --> Testimonials
 8. Footer section --> for connecting and collaborating
+
+Let us try to build it section by section
+
+Blockers
+
+1. I need to have a containers, that does the left and right alignment properly. --> resolved it for now with 10% margin always on left and right. I want to do this with margin auto
+
+Issues with each component
+
+1. Header with icon and navbar
+   Issues
+   a. Need to put a different icon. Learn to create your icon and then put it here.
+   b. Need to style the links. It is looking very upgly at this moment.
+   c. The links should be in same horizontal line as the icon.
+2. Main section -1 --> two line intro with two images
+   Issues
+   a. Need to create the images, and then put it here.
+3. Main section -2 --> a little background. Then there is what all expertise is there
+   Issues
+   a. Put a different background color here, to make it stand out from previous section
+   b. Need to style the paragraph
+
+Work on below still needs to be started 4. Main section -3 --> recent work with different companies 5. Main section -4 --> Companies with whih collaborated 6. Main section -5 --> Startup products created 7. Main section -6 --> Testimonials 8. Footer section --> for connecting and collaborating
