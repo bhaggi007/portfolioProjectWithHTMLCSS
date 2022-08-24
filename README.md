@@ -66,5 +66,8 @@ Issues with each component
    b. Need to style the paragraph
 
 Work on below still needs to be started 4. Main section -3 --> recent work with different companies 5. Main section -4 --> Companies with whih collaborated 6. Main section -5 --> Startup products created 7. Main section -6 --> Testimonials 8. Footer section --> for connecting and collaborating
-
-Adding a dummy content as not keepin well.
+Started trying to maintain a daily log here.
+23 Augugst 2022
+Adding a dummy content as not keeping well.
+24th Auggust 2022
+Adding a dummy content as not keeping well.
