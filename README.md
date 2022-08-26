@@ -71,3 +71,7 @@ Started trying to maintain a daily log here.
 Adding a dummy content as not keeping well.
 24th Auggust 2022
 Adding a dummy content as not keeping well.
+25th August 2022
+worked on freecodecamp course
+26th August 2022
+worked on freecodecamp course
