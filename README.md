@@ -75,3 +75,5 @@ Adding a dummy content as not keeping well.
 worked on freecodecamp course
 26th August 2022
 worked on freecodecamp course
+27th August 2022
+No progress
