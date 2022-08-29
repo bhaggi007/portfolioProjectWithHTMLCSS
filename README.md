@@ -79,3 +79,5 @@ worked on freecodecamp course
 No progress
 28th August 2022
 No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Progressing on creating syllabus for react
+29th August 2022
+No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Progressing on creating syllabus for react
