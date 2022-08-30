@@ -80,4 +80,6 @@ No progress
 28th August 2022
 No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Progressing on creating syllabus for react
 29th August 2022
-No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Progressing on creating syllabus for react
+No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Created syllabus for react
+30th August 2022
+No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method(push(),unshift(),pop(),shift()) .(Dot) and [] (bracket) notation, Object methods. Created syllabus high level for nodejs
