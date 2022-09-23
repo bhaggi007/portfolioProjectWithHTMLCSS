@@ -1,4 +1,4 @@
-# portfolioProjectWithHTMLCSS
+# Portfolio
 
 This is a portfolio project I will be working on. Mostly I will use vanilla html,css and Javascript
 
@@ -65,21 +65,11 @@ Issues with each component
    a. Put a different background color here, to make it stand out from previous section
    b. Need to style the paragraph
 
-Work on below still needs to be started 4. Main section -3 --> recent work with different companies 5. Main section -4 --> Companies with whih collaborated 6. Main section -5 --> Startup products created 7. Main section -6 --> Testimonials 8. Footer section --> for connecting and collaborating
+Work on below still needs to be started 
+- Main section -3 --> recent work with different companies 
+- Main section -4 --> Companies with whih collaborated 
+- Main section -5 --> Startup products created 
+- Main section -6 --> Testimonials 
+- Footer section --> for connecting and collaborating
 Started trying to maintain a daily log here.
-23 Augugst 2022
-Adding a dummy content as not keeping well.
-24th Auggust 2022
-Adding a dummy content as not keeping well.
-25th August 2022
-worked on freecodecamp course
-26th August 2022
-worked on freecodecamp course
-27th August 2022
-No progress
-28th August 2022
-No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Progressing on creating syllabus for react
-29th August 2022
-No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method, .(Dot) and [] (bracket) notation, Object methods. Created syllabus for react
-30th August 2022
-No progress. Practised Javascript topics, type coercion, type conversion, logical operators, basic array method(push(),unshift(),pop(),shift()) .(Dot) and [] (bracket) notation, Object methods. Created syllabus high level for nodejs
+
